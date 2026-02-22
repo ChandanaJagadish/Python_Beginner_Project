@@ -1,0 +1,176 @@
+Name:
+
+,date:
+
+,Period:
+
+                    Quizzzz(Form1)
+
+1.Capital of Manipur:
+   A.Dehradun
+   B.Imphal
+   C.Bhubaneswar
+   D.Chandigarh
+
+2.Capital of Haryana:
+   A.Chandigarh
+   B.Ranchi
+   C.Kohima
+   D.Chennai
+
+3.Capital of West Bengal:
+   A.Agartala
+   B.Kolkata
+   C.Raipur
+   D.Chandigarh
+
+4.Capital of Uttarakhand:
+   A.Ranchi
+   B.Bhopal
+   C.Raipur
+   D.Dehradun
+
+5.Capital of Uttar Pradesh:
+   A.Amaravati
+   B.Panaji
+   C.Hyderabad
+   D.Lucknow
+
+6.Capital of Punjab:
+   A.Raipur
+   B.Dehradun
+   C.Gangtok
+   D.Chandigarh
+
+7.Capital of Assam:
+   A.Bhubaneswar
+   B.Dispur
+   C.Amaravati
+   D.Raipur
+
+8.Capital of Arunachal Pradesh:
+   A.Aizawl
+   B.Chandigarh
+   C.Chennai
+   D.Itanagar
+
+9.Capital of Gujarat:
+   A.Gandhinagar
+   B.Chennai
+   C.Hyderabad
+   D.Aizawl
+
+10.Capital of Rajasthan:
+   A.Jaipur
+   B.Lucknow
+   C.Ranchi
+   D.Gangtok
+
+11.Capital of Nagaland:
+   A.Kohima
+   B.Lucknow
+   C.Shimla
+   D.Itanagar
+
+12.Capital of Kerala:
+   A.Thiruvananthapuram
+   B.Kolkata
+   C.Bhopal
+   D.Bhubaneswar
+
+13.Capital of Mizoram:
+   A.Chandigarh
+   B.Amaravati
+   C.Aizawl
+   D.Chandigarh
+
+14.Capital of Karnataka:
+   A.Shimla
+   B.Aizawl
+   C.Bengaluru
+   D.Amaravati
+
+15.Capital of Chhattisgarh:
+   A.Imphal
+   B.Lucknow
+   C.Raipur
+   D.Chandigarh
+
+16.Capital of Goa:
+   A.Panaji
+   B.Gangtok
+   C.Kolkata
+   D.Patna
+
+17.Capital of Sikkim:
+   A.Gangtok
+   B.Mumbai
+   C.Amaravati
+   D.Ranchi
+
+18.Capital of Telangana:
+   A.Hyderabad
+   B.Amaravati
+   C.Gandhinagar
+   D.Chandigarh
+
+19.Capital of Himachal Pradesh:
+   A.Thiruvananthapuram
+   B.Bhopal
+   C.Gandhinagar
+   D.Shimla
+
+20.Capital of Jharkhand:
+   A.Hyderabad
+   B.Mumbai
+   C.Ranchi
+   D.Bengaluru
+
+21.Capital of Meghalaya:
+   A.Jaipur
+   B.Thiruvananthapuram
+   C.Shillong
+   D.Gandhinagar
+
+22.Capital of Tamil Nadu:
+   A.Mumbai
+   B.Shillong
+   C.Chennai
+   D.Gandhinagar
+
+23.Capital of Madhya Pradesh:
+   A.Agartala
+   B.Shillong
+   C.Bhopal
+   D.Mumbai
+
+24.Capital of Maharashtra:
+   A.Mumbai
+   B.Gangtok
+   C.Chandigarh
+   D.Patna
+
+25.Capital of Andhra Pradesh:
+   A.Imphal
+   B.Kolkata
+   C.Bengaluru
+   D.Amaravati
+
+26.Capital of Tripura:
+   A.Mumbai
+   B.Agartala
+   C.Jaipur
+   D.Amaravati
+
+27.Capital of Bihar:
+   A.Patna
+   B.Gangtok
+   C.Imphal
+   D.Chandigarh
+
+28.Capital of Odisha:
+   A.Patna
+   B.Bhubaneswar
+   C.Aizawl
+   D.Lucknow
+
