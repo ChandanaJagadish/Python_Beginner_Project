@@ -55,8 +55,9 @@ for i in range(35):
        for k in range(4):
            quiz_file.write(f"   {'ABCD'[k]}.{answers[k]}\n")
        quiz_file.write('\n')
-       ans_file.write(f"{i+1}.{'ABCD'[answers.index(correct_ans)]}")
+       ans_file.write(f"{j+1}.{'ABCD'[answers.index(correct_ans)]}")
 ans_file.close()
 quiz_file.close()
     
      
+
