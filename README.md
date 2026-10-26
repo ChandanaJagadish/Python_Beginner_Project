@@ -1,83 +1,33 @@
-# Chess-game
-♟️ Python Chessboard Simulator
+# Python Beginner Projects
 
-A simple Python-based chessboard simulator built using dictionaries.
-This project visually represents a chessboard in the console and allows flexible piece placement without enforcing chess rules.
+Small Python programs I wrote while learning the language. Each file is a short exercise on one idea, such as strings, files, or regular expressions.
 
-📌 Features
+## What's inside
 
-Dictionary-based board representation (a1 to h8)
+| File | What it covers |
+|---|---|
+| `Random Quiz.py` | Generates a random quiz on state capitals and writes the questions and the answer key to separate files (see `capitalsquiz1.txt` and `capitalsquiz_ans1`) |
+| `Copy pasting strings.py` | Working with text copied from the clipboard and handling strings |
+| `Text matchng with regular expressions.py` | Finding patterns in text using regular expressions |
+| `Todo task.py` | A simple to-do list program |
+| `Chess game.asciidoc` | Notes for a chess game exercise |
+| `capitalsquiz1.txt`, `capitalsquiz_ans1` | Sample output from the quiz generator |
 
-Two-character piece notation:
+## How to run
 
-First letter → Color (w = white, b = black)
+1. Install Python 3.
+2. Download or clone this repository.
+3. Run any program from the folder:
 
-Second letter → Type (p, n, b, r, q, k)
+```
+python "Random Quiz.py"
+```
 
-Supports:
+## What I learned
+- Reading and writing files
+- Working with strings, lists, and dictionaries
+- Pattern matching with regular expressions
+- Writing small programs that solve one problem at a time
 
-Standard starting position
-
-Custom mid-game setups
-
-Console-based board printing
-
-Alternating square color simulation using text spacing
-
-No external libraries required
-
-🛠️ Technologies Used
-
-Python 3
-
-Dictionary data structure
-
-Loops and string formatting
-
-▶️ How It Works
-
-The board is stored as a Python dictionary.
-
-Keys represent board squares (a1 to h8).
-
-Values store piece codes or None.
-
-The board prints row-by-row from 8 to 1.
-
-Columns print from a to h.
-
-▶️ How to Run
-
-Install Python (3.x recommended)
-
-Clone the repository:
-
-git clone https://github.com/your-username/python-chessboard.git
-
-Run the file:
-
-python chessboard.py
-
-🎯 Example Piece Representation
-Piece	Code
-White Pawn	wp
-Black Knight	bn
-White Queen	wq
-Black King	bk
-⚠️ Limitations
-
-Does NOT enforce chess rules
-
-No move validation
-
-Console-only interface
-
-🚀 Future Improvements
-
-Add move validation
-
-Implement full chess rules
-
-Add check/checkmate detection
-
-Create GUI version (Tkinter or Pygame)
+## Contact
+Chandana Jagadish | chandanajagadish13@gmail.com | [LinkedIn](https://www.linkedin.com/in/chandana-jagadish-21a6b5304)
